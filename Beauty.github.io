@@ -7,6 +7,10 @@ class Cliente {
     private String nome;
     private String telefone;
 
+<applet code="HelloWorld.class" width="300" height="300">
+        Seu navegador não suporta Applets.
+    </applet>
+
     public Cliente(String nome, String telefone) {https://github.com/Karina2310/-Beauty-System/tree/main
         this.nome = nome;
         this.telefone = telefone;
